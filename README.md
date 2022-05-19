@@ -107,8 +107,5 @@ $ make -j
 Or Use QtCreator or any otherway you prefer when dealing with CMake projects.
 
 
-Help wanted
------------
-It's an ambitious project and if you are willing to help please drop me a message.
 
 
